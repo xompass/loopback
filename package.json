@@ -1,6 +1,6 @@
 {
   "name": "loopback",
-  "version": "3.28.0",
+  "version": "3.28.1",
   "description": "LoopBack: Open Source Framework for Node.js",
   "homepage": "http://loopback.io",
   "keywords": [
@@ -48,8 +48,8 @@
     "express": "^4.14.0",
     "inflection": "^1.6.0",
     "isemail": "^3.2.0",
-    "loopback-connector-remote": "^3.0.0",
-    "loopback-datasource-juggler": "^3.28.0",
+    "loopback-connector-remote": "github:xompass/loopback-connector-remote#v3.4.2",
+    "loopback-datasource-juggler": "github:xompass/loopback-datasource-juggler#v3.36.2",
     "loopback-filters": "^1.0.0",
     "loopback-phase": "^3.0.0",
     "nodemailer": "^6.4.16",
